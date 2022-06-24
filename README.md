@@ -1,4 +1,5 @@
 ### Hi there, I'm Lucca! 👋
+I'm a high school student!
 
 - 🔭 I’m focused on learning
 - 🌱 I’m currently learning Python
